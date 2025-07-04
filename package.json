@@ -1,6 +1,10 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Quan",
+  "description": "A project to do something awesome!",
+  "keywords": ["freecodecamp", "learn", "teach"],
+  "license": "MIT",
+  "version": "1.2.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
